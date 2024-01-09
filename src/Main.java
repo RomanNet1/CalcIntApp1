@@ -18,7 +18,7 @@ public class Main {
             int result;
 
             if(person == 5){
-                System.out.println("Вы вышли. Программа завершена.");
+                System.out.println("Вы вышли. Программа завершена. Спасибо!");
                 break;
             } else if (person == 1) {
                 System.out.println("Введите первое число: ");
